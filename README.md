@@ -1,5 +1,12 @@
 <h1 align="center">Hi , I'm Haidy Yasser <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
+<hr> 
+
+
+
+
+## About me
+
 
 - 🌱 I’m currently learning **Computer Science**
 - 🌱 I am a Junior at [Faculty of Computers & Informatics at Suez Canal University.](http://suez.edu.eg/ar/?page_id=7325&lang=en)
@@ -9,6 +16,7 @@
 - 📫 How to reach me **haidyasser3@gmail.com**
 
 - ⚡ Fun fact **Never trust technology**
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
