@@ -4,9 +4,7 @@
 </p>
 <br>
 
-- 🔭 I am a Junior at [Faculty of Computers & Informatics at Suez Canal University.](http://suez.edu.eg/ar/?page_id=7325&lang=en)
-
-- 🌱 I’m currently learning **Computer Science**
+- 🌱 I am a Junior at [Faculty of Computers & Informatics at Suez Canal University.](http://suez.edu.eg/ar/?page_id=7325&lang=en)
 
 - 👨‍💻 I am a competitive programmer at **Codeforces, Atcoder, Leetcode, Codechef.**
 
