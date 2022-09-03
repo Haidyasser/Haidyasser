@@ -79,5 +79,5 @@
 
 <p align="center">
 <a href="mailto:haidyasser3@gmail.com" target = "_blank"><img img src="gmail.svg" alt="Gmail" title="gmail" width="50px"/></a>	<a href="https://github.com/Haidyasser" target = "_blank"><img src="github.svg" alt="GitHub" title="github" width="50px"/></a>
-	<a href="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" target = "_blank"><img src="linkedin.svg" alt="LinkedIn" width="50px" title="linkedin"/></a>
+<a href="https://www.linkedin.com/in/haidy-yasser-09ba01189/" target = "_blank"><img src="linkedin.svg" alt="LinkedIn" width="50px" title="linkedin"/></a>
 </p>
