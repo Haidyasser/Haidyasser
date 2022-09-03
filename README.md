@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Computer Science**
 
-- 👨‍💻 computer I am a competitive programmer at **Codeforces, Atcoder, Leetcode, Codechef.**
+- 👨‍💻 I am a competitive programmer at **Codeforces, Atcoder, Leetcode, Codechef.**
 
 - 📫 How to reach me **haidyasser3@gmail.com**
 
