@@ -68,11 +68,12 @@
 
 <hr>
 
-
-## GitHub Stats
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haidyasser&" alt="haidyasser" /></p>
-<hr>
+<p align="center">
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=haidyasser&theme=react" alt="streak"/> <br>
+	<a href="https://github.com/haidyasser">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=haidyasser&show_icons=true&count_private=true&theme=react&include_all_commits=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=haidyasser&theme=react&layout=compact"/>
+</a> 
 </p>
 
 ## How to reach me
