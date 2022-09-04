@@ -8,8 +8,6 @@
 
 - 👨‍💻 I am a competitive programmer at **Codeforces, Atcoder, Leetcode, Codechef.**
 
-- 📫 How to reach me **haidyasser3@gmail.com**
-
 - ⚡ Fun fact **Never trust technology**
 <hr>
 
