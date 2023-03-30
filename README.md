@@ -34,18 +34,20 @@
 
 
 
-<!-- Dont Lie-->
+<!-- Prgrammer-->
 
-<!-- img align="right" width=150px src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/3D_Contributions/giphy.gif">
+<img align="right" width=250px src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Images/Programmer.png">
 
-<!-- Dont Lie End Here -->
+<!-- Prgrammer End Here -->
 
 
 <!-- Personal Talks -->
 
-- 📋 &nbsp; ⇢ &nbsp; I am currently studying [Computers & Informatics at Suez Canal University.](http://suez.edu.eg/ar/?page_id=7325&lang=en)💻
+- 📋 &nbsp; ⇢ &nbsp; I am currently studying [Computers & Informatics at Suez Canal University.](http://suez.edu.eg/ar/?page_id=7325&lang=en)
 - 👨‍💻 &nbsp; ⇢ &nbsp; I am a competitive programmer at [Codeforces](https://codeforces.com/profile/Haidy_Yasser), [Atcoder](https://atcoder.jp/users/Haidy_Yasser), [Leetcode](https://leetcode.com/haidyasser3/), [Vjudge](https://vjudge.net/user/Haidy_Yasser).
+- 💻 &nbsp; ⇢ &nbsp; Diving into The Concepts of DataStructure and Algorithms
 - 🤝 &nbsp; ⇢ &nbsp; Looking forward to collaborate on Projects and Open Source🎉
+- 🔭 &nbsp; ⇢ &nbsp; You can look at my [Resume](https://drive.google.com/file/d/1NsDCqG1kMOkpascP41Kq5G54YZN0-XZA/view) for more Details about me.
 
 <!-- Talks End here -->
 
