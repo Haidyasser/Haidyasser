@@ -55,8 +55,7 @@
 <!---languages & Tools text --->
 
 <div>&nbsp;</div>
-<p align="center"><img height="65" alt="Languages and tools text" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Images/Languages.svg"/></p>
-
+<h2 align="center">Languages & Tools</h2></p>
 <div align="center">
 
 <!--- language icons --->
