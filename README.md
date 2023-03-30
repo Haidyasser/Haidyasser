@@ -36,7 +36,7 @@
 
 <!-- Prgrammer-->
 
-<img align="right" width=200px src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Images/Programmer.png">
+<img align="right" width=180px src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Images/Programmer.png">
 
 <!-- Prgrammer End Here -->
 
