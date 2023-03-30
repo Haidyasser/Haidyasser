@@ -1,85 +1,138 @@
-<h1 align="center">Hi there, I'm Haidy Yasser <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--Intro & Greerings-->
+
+<h1 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+I+am+Haidy+Yasser!;Great+to+Have+You+Here!&center=true&size=25">
+  </a>
+	
+	
+</h1>
 
 [![@haidyasser's Holopin board](https://holopin.io/api/user/board?user=haidyasser)](https://holopin.io/@haidyasser)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Haidyasser&label=Profile%20views&color=0e75b6&style=flat" alt="Haidyasser" /> </p>
+<!--Greetings End-->
 
-## About me
+<!-- Profile View Counter-->
 
-- 🌱 I’m currently learning **Computer Science**
-- 🌱 I am a Junior at [Faculty of Computers & Informatics at Suez Canal University.](http://suez.edu.eg/ar/?page_id=7325&lang=en)
+<div align="center"><img src="https://komarev.com/ghpvc/?username=haidyasser&style=circle&color=blue" alt="views"/></div>
+<br/> 
+<!-- Counter End -->
 
-- 👨‍💻 I am a competitive programmer at **Codeforces, Atcoder, Leetcode, Codechef.**
 
-- ⚡ Fun fact **Never trust technology**
+<!-- Social Handles-->
+
+  <p align="center">
+  <a href="https://twitter.com/Haidyasser2003"><img width="66px" alt="Lt" title="Twitter" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Social_Icons/twitter_2v%20(1).png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/haidyasser/"><img width="66px" alt="In" title="LinkedIn" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Social_Icons/twitter_2v%20(5).png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:haidyasser3@gmail.com"><img width="66px" alt="Fb" title="Gmail" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Social_Icons/3d-logo-Gmail.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  </p>
+  
+<!-- Handles End-->
+
+
+
+<!-- Dont Lie-->
+
+<!-- img align="right" width=150px src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/3D_Contributions/giphy.gif">
+
+<!-- Dont Lie End Here -->
+
+
+<!-- Personal Talks -->
+
+- 📋 &nbsp; ⇢ &nbsp; I am currently studying [Computers & Informatics at Suez Canal University.](http://suez.edu.eg/ar/?page_id=7325&lang=en)💻
+- 👨‍💻 &nbsp; ⇢ &nbsp; I am a competitive programmer at [Codeforces](https://codeforces.com/profile/Haidy_Yasser), [Atcoder](https://atcoder.jp/users/Haidy_Yasser), [Leetcode](https://leetcode.com/haidyasser3/), [Vjudge](https://vjudge.net/user/Haidy_Yasser).
+- 🤝 &nbsp; ⇢ &nbsp; Looking forward to collaborate on Projects and Open Source🎉
+
+<!-- Talks End here -->
+
+
+<!---languages & Tools text --->
+
+<div>&nbsp;</div>
+<p align="center"><img height="65" alt="Languages and tools text" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Images/Languages.svg"/></p>
+
+<div align="center">
+
+<!--- language icons --->
+
+<img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/C.png" />
+<img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/CPP.png" />
+<img height="100" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Icons/JAVA.png" />
+<!--img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/HTML.png" />
+<img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/CSS.png" /-->
+<!-- img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/JS.png" /-->
+	
+<img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/PYTHON.png" />
+<img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/git.png" />
+<img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/vscode.png" />
+<!-- img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/vstudio.png" /-->
+<!--img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/intellij.png" /-->
+<img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/clion.png" />
+<img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/pycharm.png" />
+<!--img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/anaconda.png" />
+<!--img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/JUPYTER.png" />
+<!-- img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/SPYDER.png" /-->
+<!-- img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/TABLEAU.png" /-->
+<!-- img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/STATS.png" />
+<img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/EXCEL.png" />
+<img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/visio.png" />
+<img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/SQL.png" />
+<img height="100" src="https://github.com/DHaidyasser/Haidyasser/blob/main/Assets/Icons/AZURE.png" /-->
+<img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/ps.png" />
+<!-- img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/id.png" />
+<img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/ai.png" />
+<img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/xd.png" />
+<img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/fg.png" /-->
+
+  
+&nbsp;
+  </div>
+  
+<!--- Languages & Tools End --->
+
+
+<!--Trophies Start here-->
+
+<p align="center">
+<img width="100" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"/>  
+<h2 align="center">GitHub Profile Trophy</h2></p>
+<p align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=haidyasser&theme=dracula&margin-w=55)](https://github.com/ryo-ma/github-profile-trophy)
+
+</p>
+
+<!-- Trophies End here-->
+
+
+
+
+
+<!--- Github Stats Starts --->
+
+
 <hr>
-
-
-
-## My competitive programming profiles
-&emsp;
+<h2 align="center">GitHub Profile Stats</h2></p>
 <p align="center">
-  <a href="https://codeforces.com/profile/haidy_yasser" target = "_blank" ><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
-	&emsp;
-  <a href="https://leetcode.com/haidyasser3" target = "_blank" ><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
-	&emsp;
-  <a href="https://atcoder.jp/users/Haidy_Yasser" target = "_blank" ><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width = 60px/></a>
-	&emsp;
-  <a href="https://www.hackerrank.com/haidyasser3" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="haidyasser3" width = 60px /></a>
-&emsp;
-<hr> 
-
-
-
-
-## Languages and Tools:
-&emsp;
-<p align="center">
-
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-&emsp;  
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-&emsp;
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
- &emsp;
- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-&emsp;
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
- &emsp;
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
- &emsp;
- <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
- &emsp;
- <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
- &emsp;
- <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-&emsp;
- <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-&emsp;
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-&emsp;
-<a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> 
-&emsp;
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
-&emsp;
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-&emsp;
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=haidyasser&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=haidyasser&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
+  
 </p>
 
-<hr>
+<div align="center">
 
-<p align="center">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=haidyasser&theme=react" alt="streak"/> <br>
-	<a href="https://github.com/haidyasser">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=haidyasser&show_icons=true&count_private=true&theme=react&include_all_commits=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=haidyasser&theme=react&layout=compact"/>
-</a> 
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haidyasser&theme=radical)
 
-## How to reach me
+</div>
 
-<p align="center">
-<a href="mailto:haidyasser3@gmail.com" target = "_blank"><img img src="gmail.svg" alt="Gmail" title="gmail" width="50px"/></a>	<a href="https://github.com/Haidyasser" target = "_blank"><img src="github.svg" alt="GitHub" title="github" width="50px"/></a>
-<a href="https://www.linkedin.com/in/haidy-yasser-09ba01189/" target = "_blank"><img src="linkedin.svg" alt="LinkedIn" width="50px" title="linkedin"/></a>
-</p>
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Haidyasser&theme=radical) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haidyasser&theme=radical)
+
+<a><img alt="Ajay Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=haidyasser&theme=react-dark&hide_border=true" /></a>
+
+</div>
