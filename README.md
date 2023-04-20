@@ -4,7 +4,8 @@
   <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+I+am+Haidy+Yasser!;Great+to+Have+You+Here!&center=true&size=25">
   </a>
-	
+<br>	
+<img align="center" width=180px src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/welcome.gif">
 	
 </h1>
 
