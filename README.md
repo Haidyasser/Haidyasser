@@ -48,7 +48,7 @@
 - 👨‍💻 &nbsp; ⇢ &nbsp; I am a competitive programmer at [Codeforces](https://codeforces.com/profile/Haidy_Yasser), [Atcoder](https://atcoder.jp/users/Haidy_Yasser), [Leetcode](https://leetcode.com/haidyasser3/), [Vjudge](https://vjudge.net/user/Haidy_Yasser).
 - 💻 &nbsp; ⇢ &nbsp; Diving into The Concepts of DataStructure and Algorithms
 - 🤝 &nbsp; ⇢ &nbsp; Looking forward to collaborate on Projects and Open Source🎉
-- 🔭 &nbsp; ⇢ &nbsp; You can look at my [Resume](https://drive.google.com/drive/my-drive) for more Details about me.
+- 🔭 &nbsp; ⇢ &nbsp; You can look at my [Resume](https://drive.google.com/file/d/1VYzcq8ZXtvSZVChbsd075JDmOQxzr4SI/view?usp=sharing) for more Details about me.
 
 <!-- Talks End here -->
 
