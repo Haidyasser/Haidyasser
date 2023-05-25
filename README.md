@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+I+am+Haidy+Yasser!;Great+to+Have+You+Here!&center=true&size=25">
   </a>
 <br>	
-<img align="center" width=180px src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/welcome.gif">
+<img align="center" width=200px src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Images/hello%20world2.gif">
 	
 </h1>
 
@@ -37,7 +37,7 @@
 
 <!-- Prgrammer-->
 
-<img align="right" width=180px src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Images/Programmer.png">
+<img align="right" width=180px src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Images/coding.gif">
 
 <!-- Prgrammer End Here -->
 
@@ -135,6 +135,5 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Haidyasser&theme=radical) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haidyasser&theme=radical)
 
-<a><img alt="Ajay Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=haidyasser&theme=react-dark&hide_border=true" /></a>
+[![Haidy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Haidyasser&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</div>
