@@ -1,39 +1,6 @@
 <!--Intro & Greerings-->
 
-<h1 align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+I+am+Haidy+Yasser!;Great+to+Have+You+Here!&center=true&size=25">
-  </a>
-<br>	
-<img align="center" width=200px src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Images/hello%20world2.gif">
-	
-</h1>
-
-[![@haidyasser's Holopin board](https://holopin.io/api/user/board?user=haidyasser)](https://holopin.io/@haidyasser)
-
-<!--Greetings End-->
-
-<!-- Profile View Counter-->
-
-<div align="center"><img src="https://komarev.com/ghpvc/?username=haidyasser&style=circle&color=blue" alt="views"/></div>
-<br/> 
-<!-- Counter End -->
-
-
-<!-- Social Handles-->
-
-  <p align="center">
-  <a href="https://twitter.com/Haidyasser2003"><img width="66px" alt="Lt" title="Twitter" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Social_Icons/twitter_2v%20(1).png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/haidyasser/"><img width="66px" alt="In" title="LinkedIn" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Social_Icons/twitter_2v%20(5).png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:haidyasser3@gmail.com"><img width="66px" alt="Fb" title="Gmail" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Social_Icons/3d-logo-Gmail.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  </p>
-  
-<!-- Handles End-->
-
-
+### Hi there! 👋  
 
 <!-- Prgrammer-->
 
@@ -41,23 +8,54 @@
 
 <!-- Prgrammer End Here -->
 
+I’m Haidy, an **ALX Software Engineering Intern**, passionate about backend development and competitive programming. I love building efficient systems and solving challenging problems.
+
+
+<!--Greetings End-->
+
+
+
 
 <!-- Personal Talks -->
+💻 **What I Do:**  
+- Backend Developer proficient in Python, Flask, Node.js, and Express.  
+- Experienced with databases like MySQL, MongoDB, and Redis.  
+- Competitive Programmer sharpening problem-solving and algorithmic skills at [Codeforces](https://codeforces.com/profile/Haidy_Yasser), [Atcoder](https://atcoder.jp/users/Haidy_Yasser), [Leetcode](https://leetcode.com/haidyasser3/), [Vjudge](https://vjudge.net/user/Haidy_Yasser).
+- Looking forward to collaborate on Projects and Open Source🎉
+- Feel free to check out [Resume](https://drive.google.com/file/d/1VYzcq8ZXtvSZVChbsd075JDmOQxzr4SI/view?usp=sharing) for more details about me.  
 
-- 📋 &nbsp; ⇢ &nbsp; I am currently studying [Computers & Informatics at Suez Canal University.](http://suez.edu.eg/ar/?page_id=7325&lang=en)
-- 👨‍💻 &nbsp; ⇢ &nbsp; I am a competitive programmer at [Codeforces](https://codeforces.com/profile/Haidy_Yasser), [Atcoder](https://atcoder.jp/users/Haidy_Yasser), [Leetcode](https://leetcode.com/haidyasser3/), [Vjudge](https://vjudge.net/user/Haidy_Yasser).
-- 💻 &nbsp; ⇢ &nbsp; Diving into The Concepts of DataStructure and Algorithms
-- 🤝 &nbsp; ⇢ &nbsp; Looking forward to collaborate on Projects and Open Source🎉
-- 🔭 &nbsp; ⇢ &nbsp; You can look at my [Resume](https://drive.google.com/file/d/1VYzcq8ZXtvSZVChbsd075JDmOQxzr4SI/view?usp=sharing) for more Details about me.
+🎯 **Highlights:**  
+- Currently mastering web backend frameworks, asynchronous programming, and system design.  
 
+🌱 **Learning Journey:**  
+- I’m diving deeper into advanced backend technologies and exploring new ways to build robust applications.  
+
+✨ Fun fact: I enjoy both coding and exploring creative ways to tackle real-world challenges!  
 <!-- Talks End here -->
 
+<!-- Profile View Counter-->
+
+<div><img src="https://komarev.com/ghpvc/?username=haidyasser&style=circle&color=blue" alt="views"/></div>
+<br/> 
+<!-- Counter End -->
+
+<!-- Socials-->
+<h2 >Socials</h2></p>
+  <p>
+  <a href="https://twitter.com/Haidyasser2003"><img width="66px" alt="Lt" title="Twitter" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Social_Icons/twitter_2v%20(1).png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/haidyasser/"><img width="66px" alt="In" title="LinkedIn" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Social_Icons/twitter_2v%20(5).png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:haidyasser3@gmail.com"><img width="66px" alt="Fb" title="Gmail" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Social_Icons/3d-logo-Gmail.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  </p>
+<!-- Socials End-->
 
 <!---languages & Tools text --->
 
 <div>&nbsp;</div>
-<h2 align="center">Languages & Tools</h2></p>
-<div align="center">
+<h2>Languages & Tools</h2></p>
+<div>
 
 <!--- language icons --->
 
@@ -99,10 +97,9 @@
 
 <!--Trophies Start here-->
 
-<p align="center">
-<img width="100" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"/>  
-<h2 align="center">GitHub Profile Trophy</h2></p>
-<p align="center">
+<p>
+<h2>GitHub Profile Trophy</h2></p>
+<p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=haidyasser&theme=dracula&margin-w=55)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -118,7 +115,7 @@
 
 
 <hr>
-<h2 align="center">GitHub Profile Stats</h2></p>
+<h2 >GitHub Profile Stats</h2></p>
 <p align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=haidyasser&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=haidyasser&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
@@ -137,3 +134,5 @@
 
 [![Haidy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Haidyasser&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
+[![@haidyasser's Holopin board](https://holopin.io/api/user/board?user=haidyasser)](https://holopin.io/@haidyasser)
