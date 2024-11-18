@@ -42,7 +42,7 @@ I’m Haidy, an **ALX Software Engineering Intern**, passionate about backend de
 <!-- Socials-->
 <h2 >Socials</h2></p>
   <p>
-  <a href="https://twitter.com/Haidyasser2003"><img width="66px" alt="Lt" title="Twitter" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Social_Icons/twitter_2v%20(1).png"/></a>
+  <a href="https://x.com/HaidyYasserAli"><img width="66px" alt="Lt" title="Twitter" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Social_Icons/twitter_2v%20(1).png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/haidyasser/"><img width="66px" alt="In" title="LinkedIn" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Social_Icons/twitter_2v%20(5).png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
