@@ -22,7 +22,7 @@ I’m Haidy, an **ALX Software Engineering Intern**, passionate about backend de
 - Experienced with databases like MySQL, MongoDB, and Redis.  
 - Competitive Programmer sharpening problem-solving and algorithmic skills at [Codeforces](https://codeforces.com/profile/Haidy_Yasser), [Atcoder](https://atcoder.jp/users/Haidy_Yasser), [Leetcode](https://leetcode.com/haidyasser3/), [Vjudge](https://vjudge.net/user/Haidy_Yasser).
 - Looking forward to collaborate on Projects and Open Source🎉
-- Feel free to check out [Resume](https://drive.google.com/file/d/1VNvQ-z7-4w9_noELWcEDbqqHPb-tWMYg/view?usp=sharing) for more details about me.  
+- Feel free to check out [Resume](https://drive.google.com/file/d/1PVIAs0v8CowRAI8_WVdIuKZoT_IL-y3j/view?usp=sharing) for more details about me.  
 
 🎯 **Highlights:**  
 - Currently mastering web backend frameworks, asynchronous programming, and system design.  
